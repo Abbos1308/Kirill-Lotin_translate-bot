@@ -1,2 +1,2 @@
-# Kirill-Lotin_translate-bot
-Learn
+# Kirill Lotin Translate bot
+Learn code
